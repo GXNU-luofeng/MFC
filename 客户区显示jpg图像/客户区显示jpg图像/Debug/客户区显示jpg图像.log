@@ -1,0 +1,7 @@
+﻿  客户区显示jpg图像View.cpp
+d:\work\客户区显示jpg图像\客户区显示jpg图像\客户区显示jpg图像view.cpp(104): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\work\客户区显示jpg图像\客户区显示jpg图像\客户区显示jpg图像view.cpp(105): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\work\客户区显示jpg图像\客户区显示jpg图像\客户区显示jpg图像view.cpp(109): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\work\客户区显示jpg图像\客户区显示jpg图像\客户区显示jpg图像view.cpp(116): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  客户区显示jpg图像.vcxproj -> D:\work\客户区显示jpg图像\Debug\客户区显示jpg图像.exe
+  客户区显示jpg图像.vcxproj -> D:\work\客户区显示jpg图像\Debug\客户区显示jpg图像.pdb (Full PDB)
